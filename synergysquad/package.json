@@ -13,13 +13,13 @@
     "@splidejs/splide": "^4.1.4",
     "@tailwindcss/vite": "^4.1.18",
     "astro": "^5.14.1",
+    "axios": "^1.13.2",
     "express": "^5.2.1",
     "mongodb": "^7.0.0",
     "tailwindcss": "^4.1.18"
   },
   "description": "```sh\r npm create astro@latest -- --template minimal\r ```",
   "main": "server.js",
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/VIGNESHWARAN-USER/synergysquad.git"
